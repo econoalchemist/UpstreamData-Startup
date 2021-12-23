@@ -1,9 +1,7 @@
 # UpstreamData Startup Instructions for Whatsminer M30S & Antminer S19 Pro
 Congratulations on starting your Bitcoin mining journey with Upstream Data! Please take a few minutes to read this guide for helpful tips & tricks to get you started on the right foot. 
 
-<video width="800" height="800" controls>
-  <source src="TitleImage.mp4" type="video/mp4">
-</video>
+<embed src="Assets/TitleImage.mp4" autostart="true" height="800" width="800" /></embed>
 
 This guide will cover these topics:
 - Basic electrical requirements
