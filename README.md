@@ -8,7 +8,7 @@ Congratulations on starting your Bitcoin mining journey with Upstream Data! Plea
 This guide will cover these topics:
 - Basic electrical requirements
 - Unboxing 
-- Priliminary checks
+- Preliminary checks
 - Initial startup
 - Creating a SlushPool account
 - Miner configuration
@@ -57,7 +57,7 @@ Let's break down what we see in this picture and why:
 For a Whatsminer, you only need one outlet. But for the Antminer, you need two outlets because it has two power supplies. Now don't let this get you all confused, the whole ASIC still only consumes ~14 amps, each power supply is pulling ~7 amps. Also, both outets can be installed on the same 20 amp circuit like I have demonstrated here:
 
 <p align="center">
-  <img width="950" height="622" src="Assets/electrical8.png">
+  <img width="950" height="622" src="Assets/electrical2.png">
 </p>
 
 Your ASIC will most likely not include a power cable, the Whatsminers need a C19 connection and the Antiminers need a C13 connection. If you installed 6-20 outlets then these are the power cables you want:
@@ -113,7 +113,7 @@ Inspect your ASIC for any visual signs of damage. Pick your ASIC up with both ha
   <img width="950" height="501" src="Assets/asics0.jpg">
 </p>
 
-## Priliminary Checks
+## Preliminary Checks
 This is all very exciting, you have been waiting weeks for your ASIC and it is finally here. But do not rush this next part. Take a deep breath, slow down, and practice some of that low time preference Bitcoiners are known for. 
 
 You just spent a small fortune on this hardware, it is worth your while to check a few things and ensure that nothing inside teh ASIC came loose or shifted in transit. The last thing you want is to plug in your ASIC in and then see smoke come out. 
@@ -124,4 +124,36 @@ Basically there are three things you want to check:
 2) That the bus bars are tight and not touching eachother.
 3) That the hash board connections are seated and tight. 
 
+* On the Antminer, remove the two screws on the electrical cover on the output side of the ASIC. Then you can slide the cover off in that direction. 
 
+* On the Whatsminer, remove the four screws on the electrical cover on the input side of the ASIC. Also disconnect the fan wire harness. 
+
+<p align="center">
+  <img width="450" height="422" src="Assets/antminer5.png">
+  <img width="450" height="340" src="Assets/whatsminer5.png">
+</p>
+
+* On the Antminer, ensure the wire harness connections under the electrical cover are seated and tight as well as the bus bars.
+
+* On the Whatsminer, ensure the wire harness connections under the electrical cover and on the underside of the electrical cover are seated and tight. 
+
+<p align="center">
+  <img width="450" height="422" src="Assets/antminer6.png">
+  <img width="450" height="340" src="Assets/whatsminer6.png">
+</p>
+
+* On the Antminer, remove the two small screws on both ends of the larger electrical cover. Lift the larger electrical cover off the Antminer and ensure the wire harness connections are all tight and seated on the circuit board, the bus bars are tight and not touching eachother, and that the hashboard connections are seated and tight.
+
+<p align="center">
+  <img width="450" height="341" src="Assets/antminer7.png">
+  <img width="450" height="326" src="Assets/antminer8.png">
+  <img width="950" height="713" src="Assets/antminer9.png">
+</p>
+
+* On the Whatsminer, ensure the bus bars are tight and not touching eachother. Then remove the four screws attaching the intake fan to the ASIC body and ensure the hashboard connections are seated and tight. 
+
+<p align="center">
+  <img width="450" height="338" src="Assets/whatsminer7.png">
+  <img width="450" height="383" src="Assets/whatsminer8.png">
+  <img width="950" height="713" src="Assets/whatsminer9.png">
+</p>
