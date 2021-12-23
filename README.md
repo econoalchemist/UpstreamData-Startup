@@ -161,3 +161,11 @@ Basically there are three things you want to check:
 If you find any wire harness connectors loose, tighten them back into place. If you find that the bus bars have shifted in transit, loosen all the screws on that bus bar and realign it properly so it is not touching the other busbars and tighten it back down. Then put everything back together the opposite of the way you took it apart. 
 
 ## Initial Startup
+
+## Creating a SlushPool account
+
+## Miner configuration
+
+## Connecting to SlushPool
+
+## Setting up the BlackBox (coming soon)
