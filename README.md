@@ -57,7 +57,7 @@ Let's break down what we see in this picture and why:
 For a Whatsminer, you only need one outlet. But for the Antminer, you need two outlets because it has two power supplies. Now don't let this get you all confused, the whole ASIC still only consumes ~14 amps, each power supply is pulling ~7 amps. Also, both outets can be installed on the same 20 amp circuit like I have demonstrated here:
 
 <p align="center">
-  <img width="950" height="713" src="Assets/electrical8.jpg">
+  <img width="950" height="622" src="Assets/electrical8.png">
 </p>
 
 Your ASIC will most likely not include a power cable, the Whatsminers need a C19 connection and the Antiminers need a C13 connection. If you installed 6-20 outlets then these are the power cables you want:
@@ -66,7 +66,48 @@ Your ASIC will most likely not include a power cable, the Whatsminers need a C19
 
 2 x [C13 to 6-15 cable for a Antminer](https://www.amazon.com/NEMA-6-15P-Power-Cord-IBX-4933-06-C/dp/B07DGM3NXY?th=1) (the 6-15 fits in the 6-20 outlet, C13 specifications do not exceed 15 amps)
 
+If you are lucky, your Whatsminer might come with a Nema 10-20 to C19 power cable. If that is the case and you want to use that included power cable, then you will want to use the [10-20 outlet](https://www.mcmaster.com/7120K95/). 
+
 That should give you a basic understanding of your electrical requirements to discuss with your licensed electrician. Now you should be ready to open your ASIC and check a few things before powering it on. 
 
 ## Unboxing
+Here is what you can expect upon receiving your ASIC. The Antminer will be shipped in a box that reads "Antminer" on the side and has the word "Bitmain" printed on the packing tape. Not great for opsec so be prepared for that. The Whatsminer ships in a plain box with only a small holographic sticker on it with any indication of the contents.
 
+The Antminer box measures 22"L x 17"H x 13"W. The Whatsminer box measures 21"L x 14"H x 9"W. 
+
+<p align="center">
+  <img width="450" height="345" src="Assets/antminer0.jpg">
+  <img width="450" height="344" src="Assets/whatsminer0.jpg">
+</p>
+
+Check you box for external damage. If something doesn't look right, document the damage with pictures and contact the official Upstream Data sales team at sales@upstreamdata.ca
+or adam@upstreamdata.ca. 
+
+Inside the box either ASIC will be packed with styrofoam:
+
+<p align="center">
+  <img width="450" height="384" src="Assets/antminer1.jpg">
+  <img width="450" height="354" src="Assets/whatsminer1.jpg">
+</p>
+
+Inside the styrofoam the either ASIC will be wrapped in a plastic bag:
+
+<p align="center">
+  <img width="450" height="398" src="Assets/antminer2.jpg">
+  <img width="450" height="320" src="Assets/whatsminer2.jpg">
+</p>
+
+Inspect your ASIC for any visual signs of damage. Pick your ASIC up with both hands and a firm grip and shake it to see if there are any indications of loose pieces rattling around inside. 
+
+<p align="center">
+  <img width="450" height="338" src="Assets/antminer3.jpg">
+  <img width="450" height="338" src="Assets/whatsminer3.jpg">
+</p>
+
+<p align="center">
+  <img width="450" height="338" src="Assets/antminer4.jpg">
+  <img width="450" height="338" src="Assets/whatsminer4.jpg">
+</p>
+
+<p align="center">
+  <img width="950" height="501" src="Assets/asics0.jpg">
