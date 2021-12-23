@@ -23,16 +23,16 @@ The information provided here is refrrence material only. This information is pr
 Understanding the electrical infrastructure starts with understanding your Bitcoin mining hardware. The links lead to the manufacturer's specification pages for more details. 
 
 [Whatsminer M30S+](https://whatsminer.com/mall/parts/38.html)
-Power Supply Unit: P21E 
-Operating Voltage: 200 volts to 277 volts (240 volt)
-Wattage: 3,400 Watts
-Amperage: ~15 amps
+- Power Supply Unit: P21E 
+- Operating Voltage: 200 volts to 277 volts (240 volt)
+- Wattage: 3,400 Watts
+- Amperage: ~15 amps
 
 [Antminer S19 Pro](https://support.bitmain.com/hc/en-us/articles/900000261726-S19-Pro-Specifications)
-Power Supply Units: APW121215
-Voltage: 200 volts to 240 volts (240 volt)
-Wattage: 3,250 Watts
-Amperage: ~14 amps
+- Power Supply Units: APW121215
+- Voltage: 200 volts to 240 volts (240 volt)
+- Wattage: 3,250 Watts
+- Amperage: ~14 amps
 
 To calculate amps take the wattage divided by the voltage, for example: `3,400 ÷ 240 = 15 amps`
 
@@ -40,8 +40,29 @@ With this basic information, we can start to understand the minimum requirements
 
 Observing the 80% rule, to calculate what the circuit should be rated for, multiply the amperage by 1.25, for example: `15 x 1.25 = 18.75` which should be rounded up to the nearest standard, 20 amps in this case.
 
-Whether you have a Whatsminer or an Antminer, you will want to have a circuit that is rated for at least 20 amps. This means you will wants a 240 volt, 20 amp circuit breaker available in your electrical panel. From there you will want to run at least 14 AWG THHN/THWN 90° cable to the outlet. Then you will want outlets that are also rated for 20 amps, 240 volts such as Nema [6-20 recepticles](https://www.mcmaster.com/7120K88/). Here is an example of some common materials that meet these specifications:
+Whether you have a Whatsminer or an Antminer, you will want to have a circuit that is rated for at least 20 amps. This means you will want a 240 volt, 20 amp circuit breaker, 20 amp outlets, and 12 gauge cable. Here is an example of some common materials that meet these specifications:
 
 <p align="center">
-  <img width="950" height="713" src="Assets/electrical0.png">
+  <img width="950" height="713" src="Assets/electrical0.jpg">
 </p>
+
+Let's break down what we see in this picture and why:
+* [Nema 6-20 Outlets](https://www.mcmaster.com/7120K88/), rated for 250 volts, 20 amps, commonly available Nema specification for power cables.
+* [HOM Style 20A 240V Circuit Breaker](https://www.mcmaster.com/69225K4-69225K75/), for Square D brand panels. If you have a Siemans brand panel, you want the [QP style breaker](https://www.mcmaster.com/5259T5-5259T52/). Or if you have a Cuttler-Hammer brand panel, you want the [CH style breaker](https://www.mcmaster.com/5259T8-5259T82/).
+* [12/2 MC Cable](https://www.mcmaster.com/6730T24-6730T243/), rated for 600 volts, 20 Amps, 12 AWG THHN 90° cable, metal jacket means it can be ran on the exterior of walls and still meets code.
+* [MC Cable Connectors](https://www.mcmaster.com/7969K21/), easily terminate the MC cable to the electrical panel and outlet box 1/2" knockouts.   
+* [Outlet Box](https://www.mcmaster.com/71695K21/), robust steel construction, 10x 1/2" knockouts for a variety of configurations. 
+* [Wall Plate](https://www.mcmaster.com/8033K81-8033K13/) "unbreakable" Nylon construction, looks clean once installed. 
+
+For a Whatsminer, you only need one outlet. But for the Antminer, you need two outlets because it has two power supplies. Now don't let this get you all confused, the whole ASIC still only consumes ~14 amps, each power supply is pulling ~7 amps. Also, both outets can be installed on the same 20 amp circuit like I have demonstrated here:
+
+<p align="center">
+  <img width="950" height="713" src="Assets/electrical0.jpg">
+</p>
+
+Your ASIC will most likely not include a power cable, the Whatsminers need a C19 connection and the Antiminers need a C13 connection. If you installed 6-20 outlets then these are the power cables you want:
+
+1 x [C19 to 6-20 cable for a Whatsminer](https://www.amazon.com/NEMA-6-20P-Power-Cord-IBX-4937-01-C/dp/B07BZS7VQG/ref=sr_1_1_sspa?crid=217EW29IF29BN&keywords=nema%2B6-20p%2Bto%2Bc19%2Bpower%2Bcord&qid=1640238622&s=electronics&sprefix=nema%2B%2Celectronics%2C164&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOUzUxMVpWRFEwTUcmZW5jcnlwdGVkSWQ9QTA2MDIxMDMzMlZNWUZIUzhTMVVCJmVuY3J5cHRlZEFkSWQ9QTA5ODMzMjlJSTgxMUhLSUFaTTUmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
+2 x [C13 to 6-15 cable for a Antminer](https://www.amazon.com/NEMA-6-15P-Power-Cord-IBX-4933-06-C/dp/B07DGM3NXY?th=1)(the 6-15 fits in the 6-20 outlet, C13 specifications do not exceed 15 amps)
+
+
