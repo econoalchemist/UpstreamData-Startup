@@ -111,3 +111,17 @@ Inspect your ASIC for any visual signs of damage. Pick your ASIC up with both ha
 
 <p align="center">
   <img width="950" height="501" src="Assets/asics0.jpg">
+</p>
+
+## Priliminary Checks
+This is all very exciting, you have been waiting weeks for your ASIC and it is finally here. But do not rush this next part. Take a deep breath, slow down, and practice some of that low time preference Bitcoiners are known for. 
+
+You just spent a small fortune on this hardware, it is worth your while to check a few things and ensure that nothing inside teh ASIC came loose or shifted in transit. The last thing you want is to plug in your ASIC in and then see smoke come out. 
+
+Basically there are three things you want to check:
+
+1) That the wire harness connectors are seated and tight. 
+2) That the bus bars are tight and not touching eachother.
+3) That the hash board connections are seated and tight. 
+
+
