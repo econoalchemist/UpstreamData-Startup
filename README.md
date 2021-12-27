@@ -71,7 +71,7 @@ The Antminer box measures 22"L x 17"H x 13"W. The Whatsminer box measures 21"L x
 
 <p align="center">
   <img width="400" height="306" src="Assets/antminer0.jpg">
-  <img width="450" height="344" src="Assets/whatsminer0.jpg">
+  <img width="400" height="305" src="Assets/whatsminer0.jpg">
 </p>
 
 Check you box for external damage. If something doesn't look right, document the damage with pictures and contact the official Upstream Data sales team at sales@upstreamdata.ca
