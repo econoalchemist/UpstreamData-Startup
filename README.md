@@ -103,9 +103,7 @@ Inspect your ASIC for any visual signs of damage. Pick your ASIC up with both ha
   <img width="450" height="338" src="Assets/whatsminer4.jpg">
 </p>
 
-<p align="center">
-  <img width="950" height="501" src="Assets/asics0.jpg">
-</p>
+![](Assets/asics0.jpg)
 
 ## Preliminary Checks
 This is all very exciting, you have been waiting weeks for your ASIC and it is finally here. But do not rush this next part. Take a deep breath, slow down, and practice some of that low time preference Bitcoiners are known for. 
@@ -141,16 +139,18 @@ Basically there are three things you want to check:
 <p align="center">
   <img width="450" height="341" src="Assets/antminer7.png">
   <img width="450" height="326" src="Assets/antminer8.png">
-  <img width="950" height="713" src="Assets/antminer9.png">
 </p>
+
+![](Assets/antminer9.png)
 
 * On the Whatsminer, ensure the bus bars are tight and not touching eachother. Then remove the four screws attaching the intake fan to the ASIC body and ensure the hashboard connections are seated and tight. 
 
 <p align="center">
   <img width="450" height="338" src="Assets/whatsminer7.png">
   <img width="450" height="383" src="Assets/whatsminer8.png">
-  <img width="950" height="713" src="Assets/whatsminer9.png">
 </p>
+
+![](Assets/whatsminer9.png)
 
 If you find any wire harness connectors loose, tighten them back into place. If you find that the bus bars have shifted in transit, loosen all the screws on that bus bar and realign it properly so it is not touching the other busbars and tighten it back down. Then put everything back together the opposite of the way you took it apart. Then set your ASIC aside for now, this is a good time to get your mining pool account setup and configured prior to starting up your ASIC.
 
@@ -163,9 +163,7 @@ In this guide, [SlushPool](https://slushpool.com/en/home/) will be covered. Some
 
 To get started with SlushPool, first navigate to https://slushpool.com/en/home/ and click on `SIGN UP` in the upper left-hand corner. 
 
-<p align="center">
- <img width="950" height="467" src="Assets/Slush0.png">
-</p>
+![](Assets/Slush0.png)
 
 Then you can input an email address, username, and create a strong password. You may want to make considerations about using an email or username that reveal personally identifiable information about you. A confirmation email will be sent to the provided email address. 
 
@@ -176,23 +174,17 @@ Then you can input an email address, username, and create a strong password. You
 
 Open the confirmation email that was sent to you by SlushPool and click on the confirmation link. That link will bring you to the SlushPool log in page where you can enter your username and password. You will likely be presented with a Captcha. 
 
-<p align="center">
- <img width="950" height="653" src="Assets/Slush3.png">
- <img width="936" height="504" src="Assets/Slush4.png">
-</p>
+![](Assets/Slush3.png)
+![](Assets/Slush4.png)
 
 After sucessfully logging in, you should now be looking at your new SlushPool dashboard. The first thing you want to do is setup your rewards payout. Navigate to the `Funds` tab in the upper menu bar. 
 
-<p align="center">
- <img width="950" height="466" src="Assets/Slush5.png">
-</p>
+![](Assets/Slush5.png)
 
 Next, navigate to the row labeled `Bitcoin Account` and on the right-hand side click on the `Set up` hyperlink. Then click on the `Create New Wallet` option. Then fill in a wallet name, your bitcoin deposit address from your preferred wallet, and select either a `Trigger Type` of threshold or time interval. With small scale mining operations it may make more sense to use the `threshold` option so that once the accumulated rewards exceed a specified threshold, the payout is made. Specifying a threshold value lower than 0.01 bitcoin will result in a small fee. Then click on `Confirm Changes`.  
 
-<p align="center">
- <img width="950" height="465" src="Assets/Slush6.png">
-  <img width="950" height="416" src="Assets/Slush7.png">
-</p>
+![](Assets/Slush6.png)
+![](Assets/Slush7.png)
 
 You will be asked to confirm your SlushPool password and you will be sent a confirmation email asking for you to confirm the deposit address change. After clicking on the confirmation link in your email, you will be directed to a new SlushPool window and you will see that your changes have taken effect. 
 
@@ -208,9 +200,9 @@ As soon as you plug the ASIC into power it will start running. There is no on or
 Make sure the Ethernet connections and power cable connections are seated and tight.
 
 <p align="center">
- <img width="300" height="225" src="Assets/whatsminer10.png">
-  <img width="300" height="225" src="Assets/whatsminer11.png">
-   <img width="300" height="225" src="Assets/whatsminer12.png">
+ <img width="250" height="188" src="Assets/whatsminer10.png">
+  <img width="250" height="188" src="Assets/whatsminer11.png">
+   <img width="250" height="188" src="Assets/whatsminer12.png">
 </p>
 
 [![Whatsminer Startup](Assets/VideoThumnail1.png)](https://youtu.be/DKJQspEmkuA "Whatsminer Startup")
