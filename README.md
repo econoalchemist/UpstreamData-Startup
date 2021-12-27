@@ -211,9 +211,9 @@ During the initial start up you want pay attention to the air flow of the fans o
 2) Plug the power cable in to the back of the ASIC then connect the other end to the outlet.
 3) Ensure the air flow is moving the right direction. 
 
-<video controls width="300">
-    <source src="Assets/Whatsminer Startup.mp4"
-            type="video/mp4">
+[![Whatsminer]({Assets/VideoThumbnail1.png})]({https://youtu.be/DKJQspEmkuA} "Whatsminer Startup")
+
+            
 
 
 
