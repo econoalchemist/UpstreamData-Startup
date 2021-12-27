@@ -170,34 +170,34 @@ In this guide, [SlushPool](https://slushpool.com/en/home/) will be covered. Some
 To get started with SlushPool, first navigate to https://slushpool.com/en/home/ and click on `SIGN UP` in the upper left-hand corner. 
 
 <p align="center">
- <img width="950" height="467" src="Assets/slush0.png">
+ <img width="950" height="467" src="Assets/Slush0.png">
 </p>
 
 Then you can input an email address, username, and create a strong password. You may want to make considerations about using an email or username that reveal personally identifiable information about you. A confirmation email will be sent to the provided email address. 
 
 <p align="center">
- <img width="950" height="645" src="Assets/slush1.png">
- <img width="903" height="524" src="Assets/slush2.png">
+ <img width="950" height="645" src="Assets/Slush1.png">
+ <img width="903" height="524" src="Assets/Slush2.png">
 </p>
 
 Open the confirmation email that was sent to you by SlushPool and click on the confirmation link. That link will bring you to the SlushPool log in page where you can enter your username and password. You will likely be presented with a Captcha. 
 
 <p align="center">
- <img width="950" height="653" src="Assets/slush3.png">
- <img width="936" height="504" src="Assets/slush4.png">
+ <img width="950" height="653" src="Assets/Slush3.png">
+ <img width="936" height="504" src="Assets/Slush4.png">
 </p>
 
 After sucessfully logging in, you should now be looking at your new SlushPool dashboard. The first thing you want to do is setup your rewards payout. Navigate to the `Funds` tab in the upper menu bar. 
 
 <p align="center">
- <img width="950" height="466" src="Assets/slush5.png">
+ <img width="950" height="466" src="Assets/Slush5.png">
 </p>
 
 Next, navigate to the row labeled `Bitcoin Account` and on the right-hand side click on the `Set up` hyperlink. Then click on the `Create New Wallet` option. Then fill in a wallet name, your bitcoin deposit address from your preferred wallet, and select either a `Trigger Type` of threshold or time interval. With small scale mining operations it may make more sense to use the `threshold` option so that once the accumulated rewards exceed a specified threshold, the payout is made. Specifying a threshold value lower than 0.01 bitcoin will result in a small fee. Then click on `Confirm Changes`.  
 
 <p align="center">
- <img width="950" height="466" src="Assets/slush5.png">
-  <img width="950" height="466" src="Assets/slush5.png">
+ <img width="950" height="465" src="Assets/Slush6.png">
+  <img width="950" height="416" src="Assets/Slush7.png">
 </p>
 
 You will be asked to confirm your SlushPool password and you will be sent a confirmation email asking for you to confirm the deposit address change. After clicking on the confirmation link in your email, you will be directed to a new SlushPool window and you will see that your changes have taken effect. 
