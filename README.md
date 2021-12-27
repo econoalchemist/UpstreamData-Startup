@@ -9,8 +9,8 @@ This guide will cover these topics:
 - Basic electrical requirements
 - Unboxing 
 - Preliminary checks
-- Initial startup
 - Creating a SlushPool account
+- Initial startup
 - Miner configuration
 - Connecting to SlushPool
 - Setting up the BlackBox (coming soon)
@@ -205,7 +205,18 @@ You will be asked to confirm your SlushPool password and you will be sent a conf
 That is the process for updating your payout address. There are privacy benefits to only using addresses one time, so consider updating this address between each payout. At this point your SlushPool account is all setup and ready to use. This is a good time to do the initial startup with your ASIC and then the configuration can be set to your new SlushPool account.
 
 ## Initial Startup
-  
+During the initial start up you want pay attention to the air flow of the fans on your ASIC as soon as you start it up. If one of the fans are installed backwards then you want to immediately unplug the ASIC and fix that before proceeding. 
+
+1) Plug in an Ethernet cable to the back of the ASIC and connect the other end to your router or switch. 
+2) Plug the power cable in to the back of the ASIC then connect the other end to the outlet.
+3) Ensure the air flow is moving the right direction. 
+
+<video controls width="300">
+    <source src="Assets/Whatsminer Startup.mp4"
+            type="video/mp4">
+
+
+
 ## Miner configuration
 
 ## Connecting to SlushPool
