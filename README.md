@@ -198,9 +198,9 @@ As soon as you plug the ASIC into power it will start running. There is no on or
 Make sure the Ethernet connections and power cable connections are seated and tight.
 
 <p align="center">
- <img width="250" height="188" src="Assets/whatsminer10.png">
-  <img width="250" height="188" src="Assets/whatsminer11.png">
-   <img width="250" height="188" src="Assets/whatsminer12.png">
+ <img width="250" height="188" src="Assets/whatsminer10.jpg">
+  <img width="250" height="188" src="Assets/whatsminer11.jpg">
+   <img width="250" height="188" src="Assets/whatsminer12.jpg">
 </p>
 
 [![Whatsminer Startup](Assets/VideoThumnail1.png)](https://youtu.be/DKJQspEmkuA "Whatsminer Startup")
