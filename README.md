@@ -168,7 +168,7 @@ To get started with SlushPool, first navigate to [https://slushpool.com/en/home/
 
 ![](Assets/Slush0.png)
 
-Then you can input an email address, username, and create a strong password. You may want to make considerations about using an email or username that reveal personally identifiable information about you. A confirmation email will be sent to the provided email address. 
+Then you can input an email address, username, and create a strong password. You may want to make considerations about using an email or username that do not reveal personally identifiable information about you. A confirmation email will be sent to the provided email address. 
 
 ![](Assets/Slush1.png)
 ![](Assets/Slush2.png)
