@@ -113,8 +113,10 @@ You just spent a small fortune on this hardware, it is worth your while to check
 
 Basically there are three things you want to check:
 
-1) That the wire harness connectors are seated and tight. 
+1) That the wire harness connectors are seated and tight.
+ 
 2) That the bus bars are tight and not touching each other.
+
 3) That the hash board connections are seated and tight. 
 
 * On the Antminer, remove the two screws on the electrical cover on the output side of the ASIC. Then you can slide the cover off in that direction. 
