@@ -164,7 +164,7 @@ There are several different pools to choose from but the basic idea is the same 
 
 In this guide, [SlushPool](https://slushpool.com/en/home/) will be covered. Some background on SlushPool is that they were the first Bitcoin mining pool, they supported small blocks during the block wars, they were the first pool to signal for taproot activation, they have a user-friendly dashboard and mobile app. Additionally, SlushPool pushes development of the [BraiinsOS](https://braiins.com/) firmware which can be used to make your Antminer perform better. BraiinsOS is not available for Whatsminers yet but will be soon. 
 
-To get started with SlushPool, first navigate to https://slushpool.com/en/home/ and click on `SIGN UP` in the upper left-hand corner. 
+To get started with SlushPool, first navigate to [https://slushpool.com/en/home/](https://slushpool.com/en/home/) and click on `SIGN UP` in the upper left-hand corner. 
 
 ![](Assets/Slush0.png)
 
