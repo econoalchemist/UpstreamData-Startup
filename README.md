@@ -70,8 +70,8 @@ Here is what you can expect upon receiving your ASIC. The Antminer will be shipp
 The Antminer box measures 22"L x 17"H x 13"W. The Whatsminer box measures 21"L x 14"H x 9"W. 
 
 <p align="center">
-  <img width="400" height="306" src="Assets/antminer0.jpg">
-  <img width="400" height="305" src="Assets/whatsminer0.jpg">
+  <img width="300" height="230" src="Assets/antminer0.jpg">
+  <img width="300" height="229" src="Assets/whatsminer0.jpg">
 </p>
 
 Check you box for external damage. If something doesn't look right, document the damage with pictures and contact the official Upstream Data sales team at sales@upstreamdata.ca
@@ -200,9 +200,9 @@ Make sure the Ethernet connections and power cable connections are seated and ti
 If you hear any rattling sounds or smell something burning immediately unplug the ASIC. 
 
 <p align="center">
- <img width="250" height="188" src="Assets/whatsminer10.jpg">
-  <img width="250" height="188" src="Assets/whatsminer11.jpg">
-   <img width="250" height="188" src="Assets/whatsminer12.jpg">
+ <img width="200" height="150" src="Assets/whatsminer10.jpg">
+  <img width="200" height="150" src="Assets/whatsminer11.jpg">
+   <img width="200" height="150" src="Assets/whatsminer12.jpg">
 </p>
 
 [![Whatsminer Startup](Assets/VideoThumnail1.png)](https://youtu.be/DKJQspEmkuA "Whatsminer Startup")
