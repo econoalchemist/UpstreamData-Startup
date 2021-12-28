@@ -288,8 +288,10 @@ At this point, simply monitor both your SlushPool dashboard and the ASIC web int
 ![](Assets/slush23.png)
 ![](Assets/slush24.png)
 
-Keep in mind that the prominently displayed hash rate score on the SlushPool interface is your scoring rate which is made of averages. So do not be surprised if this number is significantly lower than the hash rate reading you get from the web interface on your ASIC. A more accurate metric to watch is in the upper right-hand corner of your SlushPool dashboard, the `5 minute`, `1 hour`, and `24 hour` averages. 
+Keep in mind that the prominently displayed hash rate score on the SlushPool interface is your scoring rate which is made of averages. During initial startup do not be surprised if this number is significantly lower than the hash rate reading you get from the web interface on your ASIC. A more accurate metric to watch is in the upper right-hand corner of your SlushPool dashboard, the `5 minute`, `1 hour`, and `24 hour` averages. 
 
-## Setting up the BlackBox (coming soon)
+## Setting up the BlackBox (coming soon™)
 
+## DIY BlackBox instructions (coming soon™) 
 
+## Advanced Topics: Mining with a VPN & Test Networks/Firmware (coming soon™)
