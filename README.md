@@ -12,6 +12,8 @@ This guide will cover these topics:
 - Miner configuration
 - Connecting to SlushPool
 - Setting up the BlackBox (coming soon)
+- DIY BlackBox instructions (coming soon) 
+- Advanced Topics: Mining with a VPN & Test Networks/Firmware (coming soon)
 
 ## Basic Electrical Requirements
 Electrical is no joke, hundreds of people across North America die each year from electrocution. Safety standards are there for a reason and you need to consult with a licensed electrician to ensure your installation meets the minimum safety requirements. Hiring a licensed electrician is not as expensive as you might think. You just spent upwards of $10,000 on your ASIC, the last thing you want to do is fry it; or worse cause damage to your home, your loved ones, or yourself. 
