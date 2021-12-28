@@ -1,5 +1,5 @@
 # UpstreamData Startup Instructions for Whatsminer M30S & Antminer S19 Pro
-Congratulations on starting your Bitcoin mining journey with Upstream Data! Please take a few minutes to read this guide for helpful tips & tricks to get you started on the right foot. If you have any questions, feel free to reach out in the [Upstream Data Customer Support Telegram channel](https://t.me/OhmmMiningSupport). This guide is meant as referrence material for Upstream Data BlackBox Bundle customers who are receiving their ASICs now with an expected delivery of their BlackBox in the near future. You should be getting either a Whatsminer M30S+ or Antminer S19 Pro, those are the only ASICs referrenced here. 
+Congratulations on starting your Bitcoin mining journey with Upstream Data! Please take a few minutes to read this guide for helpful tips & tricks to get you started on the right foot. If you have any questions, feel free to reach out in the [Upstream Data Customer Support Telegram channel](https://t.me/OhmmMiningSupport). This guide is meant as reference material for Upstream Data BlackBox Bundle customers who are receiving their ASICs now with an expected delivery of their BlackBox in the near future. You should be getting either a Whatsminer M30S+ or Antminer S19 Pro, those are the only ASICs referenced here. 
 
 ![](Assets/TitleImage.png)
 
@@ -16,7 +16,7 @@ This guide will cover these topics:
 ## Basic Electrical Requirements
 Electrical is no joke, hundreds of people across North America die each year from electrocution. Safety standards are there for a reason and you need to consult with a licensed electrician to ensure your installation meets the minimum safety requirements. Hiring a licensed electrician is not as expensive as you might think. You just spent upwards of $10,000 on your ASIC, the last thing you want to do is fry it; or worse cause damage to your home, your loved ones, or yourself. 
 
-The information provided here is refrrence material only. This information is provided to give you a basic understanding of the materials involved and how they are configured so that you can have a well-informed discussion with your licensed electrician and forecast your budget better. The information provided here is not meant as Do-It-Yourself (DIY) instructions. 
+The information provided here is reference material only. This information is provided to give you a basic understanding of the materials involved and how they are configured so that you can have a well-informed discussion with your licensed electrician and forecast your budget better. The information provided here is not meant as Do-It-Yourself (DIY) instructions. 
 
 Understanding the electrical infrastructure starts with understanding your Bitcoin mining hardware. The links lead to the manufacturer's specification pages for more details. 
 
@@ -44,13 +44,13 @@ Whether you have a Whatsminer or an Antminer, you will want to have a circuit th
 
 Let's break down what we see in this picture and why:
 * [Nema 6-20 Outlets](https://www.mcmaster.com/7120K88/), rated for 250 volts, 20 amps, commonly available Nema specification for power cables.
-* [HOM Style 20A 240V Circuit Breaker](https://www.mcmaster.com/69225K4-69225K75/), for Square D brand panels. If you have a Siemans brand panel, you want the [QP style breaker](https://www.mcmaster.com/5259T5-5259T52/). Or if you have a Cuttler-Hammer brand panel, you want the [CH style breaker](https://www.mcmaster.com/5259T8-5259T82/).
+* [HOM Style 20A 240V Circuit Breaker](https://www.mcmaster.com/69225K4-69225K75/), for Square D brand panels. If you have a Siemens brand panel, you want the [QP style breaker](https://www.mcmaster.com/5259T5-5259T52/). Or if you have a Cutler-Hammer brand panel, you want the [CH style breaker](https://www.mcmaster.com/5259T8-5259T82/).
 * [12/2 MC Cable](https://www.mcmaster.com/6730T24-6730T243/), rated for 600 volts, 20 Amps, 12 AWG THHN 90° cable, metal jacket means it can be ran on the exterior of walls and still meets code.
 * [MC Cable Connectors](https://www.mcmaster.com/7969K21/), easily terminate the MC cable to the electrical panel and outlet box 1/2" knockouts.   
 * [Outlet Box](https://www.mcmaster.com/71695K21/), robust steel construction, 10x 1/2" knockouts for a variety of configurations. 
 * [Wall Plate](https://www.mcmaster.com/8033K81-8033K13/) "unbreakable" Nylon construction, looks clean once installed. 
 
-For a Whatsminer, you only need one outlet. But for the Antminer, you need two outlets because it has two power supplies. Now don't let this get you all confused, the whole ASIC still only consumes ~14 amps, each power supply is pulling ~7 amps. Also, both outets can be installed on the same 20 amp circuit like I have demonstrated here:
+For a Whatsminer, you only need one outlet. But for the Antminer, you need two outlets because it has two power supplies. Now don't let this get you all confused, the whole ASIC still only consumes ~14 amps, each power supply is pulling ~7 amps. Also, both outlets can be installed on the same 20 amp circuit like I have demonstrated here:
 
 ![](Assets/electrical2.png)
 
@@ -108,12 +108,12 @@ Inspect your ASIC for any visual signs of damage. Pick your ASIC up with both ha
 ## Preliminary Checks
 This is all very exciting, you have been waiting weeks for your ASIC and it is finally here. But do not rush this next part. Take a deep breath, slow down, and practice some of that low time preference Bitcoiners are known for. 
 
-You just spent a small fortune on this hardware, it is worth your while to check a few things and ensure that nothing inside teh ASIC came loose or shifted in transit. The last thing you want is to plug in your ASIC in and then see smoke come out. 
+You just spent a small fortune on this hardware, it is worth your while to check a few things and ensure that nothing inside the ASIC came loose or shifted in transit. The last thing you want is to plug in your ASIC in and then see smoke come out. 
 
 Basically there are three things you want to check:
 
 1) That the wire harness connectors are seated and tight. 
-2) That the bus bars are tight and not touching eachother.
+2) That the bus bars are tight and not touching each other.
 3) That the hash board connections are seated and tight. 
 
 * On the Antminer, remove the two screws on the electrical cover on the output side of the ASIC. Then you can slide the cover off in that direction. 
@@ -134,7 +134,7 @@ Basically there are three things you want to check:
   <img width="300" height="225" src="Assets/whatsminer6.png">
 </p>
 
-* On the Antminer, remove the two small screws on both ends of the larger electrical cover. Lift the larger electrical cover off the Antminer and ensure the wire harness connections are all tight and seated on the circuit board, the bus bars are tight and not touching eachother, and that the hashboard connections are seated and tight.
+* On the Antminer, remove the two small screws on both ends of the larger electrical cover. Lift the larger electrical cover off the Antminer and ensure the wire harness connections are all tight and seated on the circuit board, the bus bars are tight and not touching each other, and that the hashboard connections are seated and tight.
 
 <p align="center">
   <img width="300" height="227" src="Assets/antminer7.png">
@@ -143,7 +143,7 @@ Basically there are three things you want to check:
 
 ![](Assets/antminer9.png)
 
-* On the Whatsminer, ensure the bus bars are tight and not touching eachother. Then remove the four screws attaching the intake fan to the ASIC body and ensure the hashboard connections are seated and tight. 
+* On the Whatsminer, ensure the bus bars are tight and not touching each other. Then remove the four screws attaching the intake fan to the ASIC body and ensure the hashboard connections are seated and tight. 
 
 <p align="center">
   <img width="300" height="225" src="Assets/whatsminer7.png">
@@ -155,7 +155,7 @@ Basically there are three things you want to check:
 If you find any wire harness connectors loose, tighten them back into place. If you find that the bus bars have shifted in transit, loosen all the screws on that bus bar and realign it properly so it is not touching the other busbars and tighten it back down. Then put everything back together the opposite of the way you took it apart. Then set your ASIC aside for now, this is a good time to get your mining pool account setup and configured prior to starting up your ASIC.
 
 ## Creating a SlushPool account
-Mining solo is possible but very unlikely to yeild bitcoin rewards. The chances of a solo miner solving for a block are very low and it is more likely that you will just run you ASIC indefinetly without ever solving for a block. Although, it is not impossible, as witnessed on June 3, 2020 at block height [632928](https://twitter.com/ckpooldev/status/1268334893466976257). But for most intents and purposes, you will want to connect to a mining pool so that you can maintain more steady rewards over time. With a mining pool, your rewards will be proportional to the amount of hash power you provided the pool. 
+Mining solo is possible but very unlikely to yield bitcoin rewards. The chances of a solo miner solving for a block are very low and it is more likely that you will just run your ASIC indefinitely without ever solving for a block. Although, it is not impossible, as witnessed on June 3, 2020 at block height [632928](https://twitter.com/ckpooldev/status/1268334893466976257). But for most intents and purposes, you will want to connect to a mining pool so that you can maintain more steady rewards over time. With a mining pool, your rewards will be proportional to the amount of hash power you provided the pool. 
 
 There are several different pools to choose from but the basic idea is the same with most of them. You will create an account, provide a bitcoin deposit address, and then copy/paste the mining pool URL into your ASIC configuration file so that your hash power is pointed there. Mining pools typically retain a small fee of your rewards between 1% - 3%. Then you receive rewards based on the number of blocks the pool finds and your proportional contribution to the pool during those block finds. You can learn more about mining pools [here](https://miningpools.com/bitcoin/).
 
@@ -175,7 +175,7 @@ Open the confirmation email that was sent to you by SlushPool and click on the c
 ![](Assets/Slush3.png)
 ![](Assets/Slush4.png)
 
-After sucessfully logging in, you should now be looking at your new SlushPool dashboard. The first thing you want to do is setup your rewards payout. Navigate to the `Funds` tab in the upper menu bar. 
+After successfully logging in, you should now be looking at your new SlushPool dashboard. The first thing you want to do is setup your rewards payout. Navigate to the `Funds` tab in the upper menu bar. 
 
 ![](Assets/Slush5.png)
 
@@ -212,7 +212,7 @@ Once the ASIC is running then the initial miner configurations can be made.
 ## Miner configuration
 In order to configure your ASIC you will need to be able to communicate with it. The easiest way to do this is to use a web browser to log into your ASIC. Once connected and logged into the ASIC you can make the necessary changes to connect to the mining pool. 
 
-First you will need the local IP address for your ASIC. This can be found by logging into your router and checking the list of devices under the DHCP leases section. Your router should have the local IP address needed to log into it along with the password on a label somewhere on the device. If not, the directions are usually pretty easy to find with an online search for your manufacturers router. Typically, you can just type `192.168.0.1` or `192.168.1.1` or `10.0.0.1` into your web browser and that will bring you to your routers login page. From there the username/password can vary depending on manufacturer but they are usually something like `admin/adim` or `admin/1234` or `admin/password`. Alternatively, programs like [AngryIP](https://angryip.org/) may be used. 
+First you will need the local IP address for your ASIC. This can be found by logging into your router and checking the list of devices under the DHCP leases section. Your router should have the local IP address needed to log into it along with the password on a label somewhere on the device. If not, the directions are usually pretty easy to find with an online search for your manufacturers router. Typically, you can just type `192.168.0.1` or `192.168.1.1` or `10.0.0.1` into your web browser and that will bring you to your routers login page. From there the username/password can vary depending on manufacturer but they are usually something like `admin/admin` or `admin/1234` or `admin/password`. Alternatively, programs like [AngryIP](https://angryip.org/) may be used. 
 
 ![](Assets/slush8.png)
 
@@ -234,7 +234,7 @@ Once logged in to the Whatsminer, a few important statistics to note are the Gig
 It can take several minutes to an hour for the ASIC to get up to speed and fully hashing, in the mean-time you can get started on connecting your ASIC to SlushPool. 
 
 ## Connecting to SlushPool
-In your the Whatsminer configuration page, you will be able to link three mining pools. Only one can be used at a time but the other two are there as failovers in case a mining pool server goes down. The username you use for your "worker" (your ASIC) should be the same as your SlushPool username.
+In the Whatsminer configuration page, you will be able to link three mining pools. Only one can be used at a time but the other two are there as failovers in case a mining pool server goes down. The username you use for your "worker" (your ASIC) should be the same as your SlushPool username.
 
 Navigate to `Configuration` > `Miner Configuration`
 
@@ -286,3 +286,5 @@ At this point, simply monitor both your SlushPool dashboard and the ASIC web int
 Keep in mind that the prominently displayed hash rate score on the SlushPool interface is your scoring rate which is made of averages. So do not be surprised if this number is significantly lower than the hash rate reading you get from the web interface on your ASIC. A more accurate metric to watch is in the upper right-hand corner of your SlushPool dashboard, the `5 minute`, `1 hour`, and `24 hour` averages. 
 
 ## Setting up the BlackBox (coming soon)
+
+
