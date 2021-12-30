@@ -1,7 +1,6 @@
 remote_theme: rundocs/jekyll-rtd-theme
 
-[menu]
-  [[menu.main]]
-    name = "Basic electrical requirements"
+.. toctree::
+    "Basic Electrical Requirements"
      
 
