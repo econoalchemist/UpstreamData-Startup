@@ -15,7 +15,6 @@ This guide will cover these topics:
 - DIY BlackBox instructions (coming soon) 
 - Advanced Topics: Mining with a VPN & Test Networks/Firmware (coming soon)
 
-.. toctree::
 ## Basic Electrical Requirements
 Electrical is no joke, hundreds of people across North America die each year from electrocution. Safety standards are there for a reason and you need to consult with a licensed electrician to ensure your installation meets the minimum safety requirements. Hiring a licensed electrician is not as expensive as you might think. You just spent upwards of $10,000 on your ASIC, the last thing you want to do is fry it; or worse cause damage to your home, your loved ones, or yourself. 
 
@@ -67,7 +66,6 @@ If you are lucky, your Whatsminer might come with a Nema 10-20 to C19 power cabl
 
 That should give you a basic understanding of your electrical requirements to discuss with your licensed electrician. Now you should be ready to open your ASIC and check a few things before powering it on. 
 
-.. toctree::
 ## Unboxing
 Here is what you can expect upon receiving your ASIC. The Antminer will be shipped in a box that reads "Antminer" on the side and has the word "Bitmain" printed on the packing tape. Not great for opsec so be prepared for that. The Whatsminer ships in a plain box with only a small holographic sticker on it with any indication of the contents.
 
