@@ -1,2 +1,53 @@
 remote_theme: rundocs/jekyll-rtd-theme
 
+[menu]
+  [[menu.main]]
+    name = "Basic electrical requirements"
+    pre = "<i class=\"fas fa-home fa-sm\"></i>"
+    url = "/about/"
+    weight = -10 
+  [[menu.main]]
+    name = "Unboxing"
+    pre = "<i class=\"fas fa-keyboard fa-ms\"></i>"
+    url = "/blog/"
+    weight = -9
+  [[menu.main]]
+    name = "Preliminary checks"
+    pre = "<i class=\"fa fa-podcast fa-ms\"></i>"
+    url = "/thehashcast"
+    weight = -8 
+[[menu.main]]
+    name = "Creating a SlushPool account"
+    pre = "<i class=\"fa fa-btc\"></i>"
+    url = "/donate/"
+    weight = -7
+[[menu.main]]
+    name = "Initial startup"
+    pre = "<i class=\"fa fa-microphone fa-ms\"></i>"
+    url = "/interviews"
+    weight = -6
+[[menu.main]]
+    name = "Miner configuration"
+    pre = "<i class=\"far fa-envelope\"></i>"
+    url = "/contact"
+    weight = -5
+  [[menu.main]]
+    name = "Connecting to SlushPool"
+    pre = "<i class=\"fab fa-github fa-ms\"></i>"
+    url = "https://github.com/econoalchemist"
+    weight = -4 
+  [[menu.main]]
+    name = "Setting up the BlackBox (coming soon)"
+    pre = "<i class=\"fas fa-rss fa-ms\"></i>"
+    url = "https://www.econoalchemist.com/blog-feed.xml"
+    weight = -3  
+[[menu.main]]
+    name = "DIY BlackBox instructions (coming soon)"
+    pre = "<i class=\"fa fa-book\"></i>"
+    url = "/bitcoinwhitepaper"
+    weight = -2 
+[[menu.main]]
+    name = "Advanced Topics: Mining with a VPN & Test Networks/Firmware (coming soon)"
+    pre = "<i class=\"fa fa-podcast fa-ms\"></i>"
+    url = "/hellorhighwater"
+    weight = -1
