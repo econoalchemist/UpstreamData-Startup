@@ -1,5 +1,6 @@
 .. toctree::
-   :hidden:
+
+   :includehidden:
 
 - Basic electrical requirements
 - Unboxing
