@@ -72,8 +72,8 @@ Here is what you can expect upon receiving your ASIC. The Antminer will be shipp
 The Antminer box measures 22"L x 17"H x 13"W. The Whatsminer box measures 21"L x 14"H x 9"W. 
 
 <p align="center">
-  <img width="300" height="230" src="Assets/antminer0.jpg">
-  <img width="300" height="229" src="Assets/whatsminer0.jpg">
+  <img width="450" height="345" src="Assets/antminer0.jpg">
+  <img width="450" height="344" src="Assets/whatsminer0.jpg">
 </p>
 
 Check your box for external damage. If something doesn't look right, document the damage with pictures and contact the official Upstream Data sales team at [sales@upstreamdata.ca](mailto:sales@upstreamdata.ca) or [adam@upstreamdata.ca](mailto:adam@upstreamdata.ca). 
