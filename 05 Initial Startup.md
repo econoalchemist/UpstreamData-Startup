@@ -17,7 +17,7 @@ If you hear any rattling sounds or smell something burning immediately unplug th
    <img width="300" src="Assets/whatsminer12.jpg">
 </p>
 
-[![Whatsminer Startup](Assets/VideoThumnail1.png)](https://youtu.be/DKJQspEmkuA "Whatsminer Startup")
+[![Whatsminer Startup](Assets/VideoThumnail1.png)](https://media.econoalchemist.com/w/cC5WiKizRXAgxUpojKbTQd "Whatsminer Startup")
 
 Once the ASIC is running then the initial miner configurations can be made. To power down the ASIC, unplug the Ethernet cable and wait a few minutes for the ASIC to go into standby mode where it will spool down the fans to a low idle. Then wait a few more minutes for the hashboarsds to cool off and then unplug the power cable.  
 
