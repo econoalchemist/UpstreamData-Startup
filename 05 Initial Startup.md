@@ -12,9 +12,9 @@ Make sure the Ethernet connections and power cable connections are seated and ti
 If you hear any rattling sounds or smell something burning immediately unplug the ASIC. 
 
 <p align="center">
- <img width="200" height="150" src="Assets/whatsminer10.jpg">
-  <img width="200" height="150" src="Assets/whatsminer11.jpg">
-   <img width="200" height="150" src="Assets/whatsminer12.jpg">
+ <img width="300" src="Assets/whatsminer10.jpg">
+  <img width="300" src="Assets/whatsminer11.jpg">
+   <img width="300" src="Assets/whatsminer12.jpg">
 </p>
 
 [![Whatsminer Startup](Assets/VideoThumnail1.png)](https://youtu.be/DKJQspEmkuA "Whatsminer Startup")
