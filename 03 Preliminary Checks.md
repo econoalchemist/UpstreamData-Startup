@@ -41,8 +41,8 @@ Basically there are three things you want to check:
 * On the Whatsminer, ensure the bus bars are tight and not touching each other. Then remove the four screws attaching the intake fan to the ASIC body and ensure the hashboard connections are seated and tight. 
 
 <p align="center">
-  <img width="500" src="Assets/whatsminer7.png">
-  <img width="500" src="Assets/whatsminer8_1.png">
+  <img width="450" src="Assets/whatsminer7.png">
+  <img width="450" src="Assets/whatsminer8_1.png">
 </p>
 
 ![](Assets/whatsminer9.png)
