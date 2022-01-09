@@ -12,12 +12,18 @@ To get started with SlushPool, first navigate to [https://slushpool.com/en/home/
 Then you can input an email address, username, and create a strong password. You may want to make considerations about using an email or username that do not reveal personally identifiable information about you. A confirmation email will be sent to the provided email address. 
 
 ![](Assets/Slush1.png)
-![](Assets/Slush2.png)
+
+<p align="center">
+  <img width="1000" src="Assets/Slush2.png">
+</p>
 
 Open the confirmation email that was sent to you by SlushPool and click on the confirmation link. That link will bring you to the SlushPool log in page where you can enter your username and password. You will likely be presented with a Captcha. 
 
 ![](Assets/Slush3.png)
-![](Assets/Slush4.png)
+
+<p align="center">
+  <img width="1000" src="Assets/Slush4.png">
+</p>  
 
 After successfully logging in, you should now be looking at your new SlushPool dashboard. The first thing you want to do is setup your rewards payout. Navigate to the `Funds` tab in the upper menu bar. 
 
