@@ -8,19 +8,26 @@ First you will need the local IP address for your ASIC. This can be found by log
 Once you have your ASIC's local IP address then you can just type that into your web browser URL bar and then you may be warned about how this is not a trusted connection. This is a self signed certificate so just accept the risk and continue. 
 
 <p align="center">
- <img width="300" src="Assets/slush9_1.png">
-  <img width="300" src="Assets/slush10.png">
+ <img width="450" src="Assets/slush9_1.png">
+  <img width="450" src="Assets/slush10.png">
 </p>  
 
-Once you are at the Antminer login page the username/password should be `root/root`. From the Whatsminer login page the username/password should be `admin/admin`.
+## Antminer
+Once you are at the Antminer login page the username/password should be `root/root`.
 
 ![](Assets/startup1.png)
 
+## Whatsminer
+From the Whatsminer login page the username/password should be `admin/admin`.
 ![](Assets/slush11.png)
 
-Once logged in to the Antminer or Whatsminer web interface, a few important statistics to note are the Tera Hash, displayed as a Giga Hash Average: `GH/s` or `GHSav`. The Fan Speed: `FanX Speed` or `FanSpeedIn`/ `FanSpeedOut`. The Power Consumption in Watts: `Power` (on the Whatsminer). And the Hash Board Temperatures: `Inlet Temp`/`Outlet Temp` or `Temperature`. 
+## Antminer
+Once logged in to the Antminer web interface, a few important statistics to note are the Tera Hash, displayed as a Giga Hash Average: `GH/s`. The Fan Speed: `Fan1 Speed`, `Fan2 Speed`, `Fan3 Speed`, `Fan4 Speed`. And the Hash Board Temperatures: `Inlet Temp` & `Outlet Temp`. 
 
 ![](Assets/startup7.png)
+
+## Whatsminer
+Once logged in to the Whatsminer web interface, a few important statistics to note are the Tera Hash, displayed as a Giga Hash Average: `GHSav`. The Fan Speed: `FanSpeedIn` & `FanSpeedOut`. The Power Consumption in Watts: `Power`. And the Hash Board Temperatures: `Temperature`. 
 
 ![](Assets/slush12.png)
 
