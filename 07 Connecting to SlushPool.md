@@ -40,7 +40,7 @@ Copy/paste the first nearest SlushPool server into your ASIC configuration file 
 ![](Assets/slush18.png)
 
 ## Antminer
-Copy/paste the first nearest SlushPool server into your ASIC configuration page by navigating to the `Pool 1` dialog box and placing the SlushPool URL there. Then click on `Save`.
+Copy/paste the first nearest SlushPool server into your ASIC configuration page by navigating to the `Pool 1` dialog box and placing the SlushPool URL there. 
 
 ![](Assets/startup3_2.png)
 
@@ -60,7 +60,7 @@ You can leave the default password as `1234`.
 ![](Assets/slush19_1.png)
 
 ## Antminer
-You can use any password such as `1234`.
+You can use any password such as `1234`. Then click on `Save`.
 
 ![](Assets/startup3_4.png)
 
