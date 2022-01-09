@@ -42,7 +42,7 @@ Basically there are three things you want to check:
 
 <p align="center">
   <img width="450" src="Assets/whatsminer7.png">
-  <img width="450" src="Assets/whatsminer8.png">
+  <img width="450" src="Assets/whatsminer8_1.png">
 </p>
 
 ![](Assets/whatsminer9.png)
