@@ -67,7 +67,7 @@ You can use any password such as `1234`.
 ## Antminer & Whatsminer
 Repeat this process for the other two failover servers, picking a different server for each. Keep the worker name and password the same for each. 
 
-![](Assets/startup3_5.png)
+![](Assets/startup3_5_1.png)
 
 ![](Assets/slush19_1.png)
 
