@@ -13,8 +13,8 @@ Check your box for external damage. If something doesn't look right, document th
 Inside the either box the ASIC will be packed with styrofoam:
 
 <p align="center">
-  <img width="450" src="Assets/antminer1.jpg">
-  <img width="450" src="Assets/whatsminer1.jpg">
+  <img width="450" src="Assets/antminer1_1.jpg">
+  <img width="450" src="Assets/whatsminer1_1.jpg">
 </p>
 
 Inside the styrofoam, either ASIC will be wrapped in a plastic bag:
