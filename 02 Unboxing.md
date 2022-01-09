@@ -13,15 +13,15 @@ Check your box for external damage. If something doesn't look right, document th
 Inside the either box the ASIC will be packed with styrofoam:
 
 <p align="center">
-  <img width="300" height="256" src="Assets/antminer1.jpg">
-  <img width="300" height="236" src="Assets/whatsminer1.jpg">
+  <img width="450" src="Assets/antminer1.jpg">
+  <img width="450" src="Assets/whatsminer1.jpg">
 </p>
 
 Inside the styrofoam, either ASIC will be wrapped in a plastic bag:
 
 <p align="center">
-  <img width="300" height="265" src="Assets/antminer2.jpg">
-  <img width="300" height="213" src="Assets/whatsminer2.jpg">
+  <img width="450" src="Assets/antminer2.jpg">
+  <img width="450" src="Assets/whatsminer2.jpg">
 </p>
 
 Inspect your ASIC for any visual signs of damage. Pick your ASIC up with both hands and a firm grip and shake it to see if there are any indications of loose pieces rattling around inside. 
