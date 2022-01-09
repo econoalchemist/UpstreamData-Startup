@@ -77,7 +77,10 @@ Repeat this process for the other two failover servers, picking a different serv
 ## Whatsminer
 The ASIC needs to be rebooted in order for these changes to take effect. Navigate to `System` > `Reboot` then click on the <kbd>Perform reboot</kbd> button. You will be logged out of the interface and the ASIC will reboot. You will hear the fans spool up and down a couple times. Then you can log back into the ASIC interface. 
 
-![](Assets/slush20.png)
+<p align="center">
+  <img width="733" src="Assets/slush20.png">
+  </p>
+  
 ![](Assets/slush18.png)
 
 ## Antminer
