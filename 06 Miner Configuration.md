@@ -14,9 +14,13 @@ Once you have your ASIC's local IP address then you can just type that into your
 
 Once you are at the Antminer login page the username/password should be `root/root`. From the Whatsminer login page the username/password should be `admin/admin`.
 
+![](Assets/startup1.png)
+
 ![](Assets/slush11.png)
 
 Once logged in to the Whatsminer, a few important statistics to note are the Giga Hash Average: `GHSav`, the Intake Fan Speed: `FanSpeedIn`, the Exhaust Fan Speed: `FanSpeedOut`, the Power Consumption in Watts: `Power`, and the Hash Board Temperatures: `Temperature`. 
+
+![](Assets/startup7.png)
 
 ![](Assets/slush12.png)
 
