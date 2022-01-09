@@ -35,7 +35,9 @@ Also of note is that the password in the configuration page can be anything such
 ## Whatsminer
 Copy/paste the first nearest SlushPool server into your ASIC configuration file by navigating to the `Pool 1` drop down menu and selecting `-- Custom --` and then pasting the SlushPool URL there. Then click on `Save & Apply` before making any other changes. 
 
-![](Assets/slush17.png)
+<p align="center">
+  <img width="798" src="Assets/slush17.png">
+  </p>
 
 ![](Assets/slush18.png)
 
