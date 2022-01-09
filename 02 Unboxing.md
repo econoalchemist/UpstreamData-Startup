@@ -4,8 +4,8 @@ Here is what you can expect upon receiving your ASIC. The Antminer will be shipp
 The Antminer box measures 22"L x 17"H x 13"W. The Whatsminer box measures 21"L x 14"H x 9"W. 
 
 <p align="center">
-  <img width="300" height="230" src="Assets/antminer0.jpg">
-  <img width="300" height="229" src="Assets/whatsminer0.jpg">
+  <img width="450" src="Assets/antminer0.jpg">
+  <img width="450" src="Assets/whatsminer0.jpg">
 </p>
 
 Check your box for external damage. If something doesn't look right, document the damage with pictures and contact the official Upstream Data sales team at [sales@upstreamdata.ca](mailto:sales@upstreamdata.ca) or [adam@upstreamdata.ca](mailto:adam@upstreamdata.ca). 
@@ -27,13 +27,10 @@ Inside the styrofoam, either ASIC will be wrapped in a plastic bag:
 Inspect your ASIC for any visual signs of damage. Pick your ASIC up with both hands and a firm grip and shake it to see if there are any indications of loose pieces rattling around inside. 
 
 <p align="center">
-  <img width="300" height="225" src="Assets/antminer3.jpg">
-  <img width="300" height="225" src="Assets/whatsminer3.jpg">
-</p>
-
-<p align="center">
-  <img width="300" height="225" src="Assets/antminer4.jpg">
-  <img width="300" height="225" src="Assets/whatsminer4.jpg">
+  <img width="450" src="Assets/antminer3.jpg">
+  <img width="450" src="Assets/whatsminer3.jpg">
+  <img width="450" src="Assets/antminer4.jpg">
+  <img width="450" src="Assets/whatsminer4.jpg">
 </p>
 
 ![](Assets/asics0.jpg)
