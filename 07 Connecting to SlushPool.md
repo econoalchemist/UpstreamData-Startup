@@ -40,7 +40,7 @@ Copy/paste the first nearest SlushPool server into your ASIC configuration file 
 ![](Assets/slush18.png)
 
 ## Antminer
-Copy/paste the first nearest SlushPool server into your ASIC configuration page by navigating to the `Pool 1` dialog box and placing the SlushPool URL there. 
+Copy/paste the first nearest SlushPool server into your ASIC configuration page by navigating to the `Pool 1` dialog box and placing the SlushPool URL there. Then click on `Save`.
 
 ![](Assets/startup3_2.png)
 
