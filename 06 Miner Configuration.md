@@ -18,7 +18,7 @@ Once you are at the Antminer login page the username/password should be `root/ro
 
 ![](Assets/slush11.png)
 
-Once logged in to the Whatsminer, a few important statistics to note are the Giga Hash Average: `GHSav`, the Intake Fan Speed: `FanSpeedIn`, the Exhaust Fan Speed: `FanSpeedOut`, the Power Consumption in Watts: `Power`, and the Hash Board Temperatures: `Temperature`. 
+Once logged in to the Antminer or Whatsminer web interface, a few important statistics to note are the Tera Hash, displayed as a Giga Hash Average: `GH/s` or `GHSav`. The Fan Speed: `FanX Speed` or `FanSpeedIn`/ `FanSpeedOut`. The Power Consumption in Watts: `Power` (on the Whatsminer). And the Hash Board Temperatures: `Inlet Temp`/`Outlet Temp` or `Temperature`. 
 
 ![](Assets/startup7.png)
 
