@@ -32,7 +32,7 @@ Basically there are three things you want to check:
 * On the Antminer, remove the two small screws on both ends of the larger electrical cover. Lift the larger electrical cover off the Antminer and ensure the wire harness connections are all tight and seated on the circuit board, the bus bars are tight and not touching each other, and that the hashboard connections are seated and tight.
 
 <p align="center">
-  <img width="450" src="Assets/antminer7.png">
+  <img width="450" src="Assets/antminer7_1.png">
   <img width="450" src="Assets/antminer8.png">
 </p>
 
