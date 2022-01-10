@@ -17,7 +17,7 @@ Then you can input an email address, username, and create a strong password. You
   <img width="1000" src="Assets/Slush2.png">
 </p>
 
-Open the confirmation email that was sent to you by SlushPool and click on the confirmation link. That link will bring you to the SlushPool log in page where you can enter your username and password. You will likely be presented with a Captcha. 
+Open the confirmation email that was sent to you by SlushPool and click on the confirmation link. That link will bring you to the SlushPool login page where you can enter your username and password. You will likely be presented with a Captcha. 
 
 ![](Assets/Slush3.png)
 
