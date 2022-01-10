@@ -1,7 +1,7 @@
 ## Preliminary Checks
 This is all very exciting, you have been waiting weeks for your ASIC and it is finally here. But do not rush this next part. Take a deep breath, slow down, and practice some of that low time preference Bitcoiners are known for. 
 
-You just spent a small fortune on this hardware, it is worth your while to check a few things and ensure that nothing inside the ASIC came loose or shifted in transit. The last thing you want is to plug in your ASIC in and then see smoke come out. 
+You just spent a small fortune on this hardware, it is worth your while to check a few things and ensure that nothing inside the ASIC came loose or shifted in transit. The last thing you want is to plug in your ASIC and then see smoke come out. 
 
 Basically there are three things you want to check:
 
