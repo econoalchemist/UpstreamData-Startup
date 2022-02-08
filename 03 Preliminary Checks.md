@@ -29,14 +29,15 @@ Basically there are three things you want to check:
   <img width="450" src="Assets/whatsminer6.png">
 </p>
 
-* On the Antminer, remove the two small screws on both ends of the larger electrical cover. Lift the larger electrical cover off the Antminer and ensure the wire harness connections are all tight and seated on the circuit board, the bus bars are tight and not touching each other, and that the hashboard connections are seated and tight.
+* On the Antminer, simply loosen the screw (without removing it all the way) directly below the round silver latch on the end of the electrical cover. Then by pressing the round silver latch, you can lift the entire cover off the top revealing the electrical components underneath. Ensure the wire harness connections are all tight and seated on the circuit board, the bus bars are tight and not touching each other, and that the hashboard connections are seated and tight.
 
 <p align="center">
-  <img width="450" src="Assets/antminer7_1.png">
-  <img width="450" src="Assets/antminer8.png">
+  <img width="300" src="Assets/antminer13.jpg">
+  <img width="300" src="Assets/antminer14.jpg">
+  <img width="300" src="Assets/antminer15.jpg">
 </p>
 
-![](Assets/antminer9.png)
+![](Assets/antminer16.jpg)
 
 * On the Whatsminer, ensure the bus bars are tight and not touching each other. Then remove the four screws attaching the intake fan to the ASIC body and ensure the hashboard connections are seated and tight. 
 
